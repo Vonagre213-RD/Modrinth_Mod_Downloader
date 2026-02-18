@@ -1,4 +1,4 @@
-import { bulkScrapper } from "./functions/fetchMods.js"
+import { bulkScrapper } from "./functions/bulkScrapper.js"
 
 const mods = ["Advancement plaques",
     "ambientsounds",
