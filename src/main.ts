@@ -1,4 +1,4 @@
-import { bulkScrapper } from "./functions/bulkScrapper.js"
+import { bulkScrapper } from "./functions/modSearching/bulkScrapper.js"
 
 const mods = ["Advancement plaques",
     "ambientsounds",
@@ -11,6 +11,5 @@ const mods = ["Advancement plaques",
     "bridging mod",
     "c2me-fabric",]
 
-bulkScrapper(mods, "1.20.1", "Fabric")
-
+bulkScrapper(mods)
 

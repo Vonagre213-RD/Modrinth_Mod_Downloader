@@ -1,4 +1,4 @@
-import type { modsInterface } from '../types/fetchTypes.js'
+import type { modsInterface } from '../../types/fetchTypes.js'
 import { searchMod } from './searchMod.js'
 import { getModVersionInformation } from './getModVersionInformation.js'
 

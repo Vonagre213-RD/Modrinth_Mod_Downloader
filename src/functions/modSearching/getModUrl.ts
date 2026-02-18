@@ -2,7 +2,7 @@ import { searchMod } from './searchMod.js'
 import { getModVersionInformation } from './getModVersionInformation.js'
 import { downloadDependencies } from './downloadDependencies.js'
 
-async function getModUrl(mod_name: string, version: string, loader: string) {
+async function getModUrl(mod_name: string) {
 
     
     const searchJson = await searchMod(mod_name);

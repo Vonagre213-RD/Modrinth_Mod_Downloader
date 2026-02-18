@@ -1,1 +1,287 @@
-{"errors":[],"downloadQueue":[{"id":"9NM0dXub","slug":"advancement-plaques","url":"https://cdn.modrinth.com/data/9NM0dXub/versions/xX9KGjcD/AdvancementPlaques-1.20.1-fabric-1.6.7.jar","version":"1.6.7","loader":"fabric","dependencies":[{"version_id":null,"project_id":"5faXoLqX","file_name":null,"dependency_type":"required"},{"version_id":null,"project_id":"6AQIaxuO","file_name":null,"dependency_type":"optional"},{"version_id":null,"project_id":"nvQzSEkH","file_name":null,"dependency_type":"optional"},{"version_id":null,"project_id":"lU8KbfG2","file_name":null,"dependency_type":"optional"},{"version_id":null,"project_id":"1OE8wbN0","file_name":null,"dependency_type":"optional"}]},{"id":"5faXoLqX","slug":"iceberg","url":"https://cdn.modrinth.com/data/5faXoLqX/versions/AiO84cp2/Iceberg-1.20.1-fabric-1.1.25.jar","version":"1.1.25","loader":"fabric","dependencies":[]},{"id":"6AQIaxuO","slug":"wthit","url":"https://cdn.modrinth.com/data/6AQIaxuO/versions/mh9Zp3yN/wthit-1.20.1-fabric-8.21.0.jar","version":"fabric-8.21.0","loader":"fabric","dependencies":[{"version_id":null,"project_id":"nfn13YXA","file_name":null,"dependency_type":"optional"},{"version_id":null,"project_id":"P7dR8mSH","file_name":null,"dependency_type":"required"},{"version_id":null,"project_id":"mOgUt4GM","file_name":null,"dependency_type":"optional"},{"version_id":null,"project_id":"fRiHVvU7","file_name":null,"dependency_type":"optional"},{"version_id":null,"project_id":"ftdbN0KK","file_name":null,"dependency_type":"required"}]},{"id":"nvQzSEkH","slug":"jade","url":"https://cdn.modrinth.com/data/nvQzSEkH/versions/drol2x1P/Jade-1.20-Fabric-11.13.1.jar","version":"11.13.1+fabric","loader":"fabric","dependencies":[{"version_id":null,"project_id":"u6dRKJwZ","file_name":null,"dependency_type":"optional"}]},{"id":"lU8KbfG2","slug":"advancement-screenshot","url":"https://cdn.modrinth.com/data/lU8KbfG2/versions/HTffFr5j/advancementscreenshot-1.20.1-5.0.jar","version":"1.20.1-5.0-fabric+forge+neo","loader":"fabric","dependencies":[{"version_id":null,"project_id":"e0M1UDsY","file_name":null,"dependency_type":"required"}]},{"id":"1OE8wbN0","slug":"prism-lib","url":"https://cdn.modrinth.com/data/1OE8wbN0/versions/Fmetb8IP/Prism-1.20.1-fabric-1.0.5.jar","version":"1.0.5","loader":"fabric","dependencies":[]},{"id":"fM515JnW","slug":"ambientsounds","url":"https://cdn.modrinth.com/data/fM515JnW/versions/Y8F6BpQg/AmbientSounds_FABRIC_v6.3.4_mc1.20.1.jar","version":"6.3.4","loader":"fabric","dependencies":[{"version_id":null,"project_id":"P7dR8mSH","file_name":null,"dependency_type":"required"},{"version_id":null,"project_id":"OsZiaDHq","file_name":null,"dependency_type":"required"}]},{"id":"P7dR8mSH","slug":"fabric-api","url":"https://cdn.modrinth.com/data/P7dR8mSH/versions/L6LGItxd/fabric-api-0.92.7%2B1.20.1.jar","version":"0.92.7+1.20.1","loader":"fabric","dependencies":[]},{"id":"OsZiaDHq","slug":"creativecore","url":"https://cdn.modrinth.com/data/OsZiaDHq/versions/HoxFnPO8/CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar","version":"2.12.34","loader":"fabric","dependencies":[{"version_id":null,"project_id":"P7dR8mSH","file_name":null,"dependency_type":"required"}]},{"id":"EsAfCjCV","slug":"appleskin","url":"https://cdn.modrinth.com/data/EsAfCjCV/versions/N5XeV21r/appleskin-fabric-mc1.20.1-2.5.2.jar","version":"2.5.2+mc1.20.1","loader":"fabric","dependencies":[{"version_id":null,"project_id":"P7dR8mSH","file_name":null,"dependency_type":"required"}]},{"id":"P7dR8mSH","slug":"fabric-api","url":"https://cdn.modrinth.com/data/P7dR8mSH/versions/L6LGItxd/fabric-api-0.92.7%2B1.20.1.jar","version":"0.92.7+1.20.1","loader":"fabric","dependencies":[]},{"id":"Q2OqKxDG","slug":"better-advancements","url":"https://cdn.modrinth.com/data/Q2OqKxDG/versions/g2QPj5Kb/BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar","version":"0.4.2.25","loader":"fabric","dependencies":[]},{"id":"G1s2WpNo","slug":"better-third-person","url":"https://cdn.modrinth.com/data/G1s2WpNo/versions/1yJzEpzh/BetterThirdPerson-Fabric-1.20-1.9.0.jar","version":"1.9.0","loader":"fabric","dependencies":[]},{"id":"lO3s8hjs","slug":"bridging-mod","url":"https://cdn.modrinth.com/data/lO3s8hjs/versions/PcPvYHBC/BridgingMod-2.5.1%2B1.20.1.fabric-release.jar","version":"2.5.1+1.20.1.fabric","loader":"fabric","dependencies":[{"version_id":null,"project_id":"1eAoo2KR","file_name":null,"dependency_type":"required"},{"version_id":null,"project_id":"P7dR8mSH","file_name":null,"dependency_type":"required"},{"version_id":null,"project_id":"mOgUt4GM","file_name":null,"dependency_type":"optional"}]},{"id":"1eAoo2KR","slug":"yacl","url":"https://cdn.modrinth.com/data/1eAoo2KR/versions/dvS5DjUA/yet_another_config_lib_v3-3.6.6%2B1.20.1-fabric.jar","version":"3.6.6+1.20.1-fabric","loader":"fabric","dependencies":[{"version_id":null,"project_id":"P7dR8mSH","file_name":null,"dependency_type":"required"}]},{"id":"P7dR8mSH","slug":"fabric-api","url":"https://cdn.modrinth.com/data/P7dR8mSH/versions/L6LGItxd/fabric-api-0.92.7%2B1.20.1.jar","version":"0.92.7+1.20.1","loader":"fabric","dependencies":[]},{"id":"mOgUt4GM","slug":"modmenu","url":"https://cdn.modrinth.com/data/mOgUt4GM/versions/lEkperf6/modmenu-7.2.2.jar","version":"7.2.2","loader":"fabric","dependencies":[]},{"id":"VSNURh3q","slug":"c2me-fabric","url":"https://cdn.modrinth.com/data/VSNURh3q/versions/s4WOiNtz/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.16.jar","version":"0.2.0+alpha.11.16+1.20.1","loader":"fabric","dependencies":[]}]}
+{
+    "errors": [
+        {
+            "searchParameter": "https://api.modrinth.com/v2/project/auditory/version?game_versions=[%221.20.1%22]&loaders=[%22fabric%22]",
+            "modName": "auditory"
+        },
+        {
+            "searchParameter": "https://api.modrinth.com/v2/project/better-f3/version?game_versions=[%221.20.1%22]&loaders=[%22fabric%22]",
+            "modName": "better-f3"
+        }
+    ],
+    "downloadQueue": [
+        {
+            "id": "9NM0dXub",
+            "slug": "advancement-plaques",
+            "url": "https://cdn.modrinth.com/data/9NM0dXub/versions/xX9KGjcD/AdvancementPlaques-1.20.1-fabric-1.6.7.jar",
+            "version": "1.6.7",
+            "loader": "fabric",
+            "dependencies": [
+                {
+                    "version_id": null,
+                    "project_id": "nvQzSEkH",
+                    "file_name": null,
+                    "dependency_type": "optional"
+                },
+                {
+                    "version_id": null,
+                    "project_id": "5faXoLqX",
+                    "file_name": null,
+                    "dependency_type": "required"
+                },
+                {
+                    "version_id": null,
+                    "project_id": "lU8KbfG2",
+                    "file_name": null,
+                    "dependency_type": "optional"
+                },
+                {
+                    "version_id": null,
+                    "project_id": "6AQIaxuO",
+                    "file_name": null,
+                    "dependency_type": "optional"
+                },
+                {
+                    "version_id": null,
+                    "project_id": "1OE8wbN0",
+                    "file_name": null,
+                    "dependency_type": "optional"
+                }
+            ]
+        },
+        {
+            "id": "nvQzSEkH",
+            "slug": "jade",
+            "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/drol2x1P/Jade-1.20-Fabric-11.13.1.jar",
+            "version": "11.13.1+fabric",
+            "loader": "fabric",
+            "dependencies": [
+                {
+                    "version_id": null,
+                    "project_id": "u6dRKJwZ",
+                    "file_name": null,
+                    "dependency_type": "optional"
+                }
+            ]
+        },
+        {
+            "id": "5faXoLqX",
+            "slug": "iceberg",
+            "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/AiO84cp2/Iceberg-1.20.1-fabric-1.1.25.jar",
+            "version": "1.1.25",
+            "loader": "fabric",
+            "dependencies": []
+        },
+        {
+            "id": "lU8KbfG2",
+            "slug": "advancement-screenshot",
+            "url": "https://cdn.modrinth.com/data/lU8KbfG2/versions/HTffFr5j/advancementscreenshot-1.20.1-5.0.jar",
+            "version": "1.20.1-5.0-fabric+forge+neo",
+            "loader": "fabric",
+            "dependencies": [
+                {
+                    "version_id": null,
+                    "project_id": "e0M1UDsY",
+                    "file_name": null,
+                    "dependency_type": "required"
+                }
+            ]
+        },
+        {
+            "id": "6AQIaxuO",
+            "slug": "wthit",
+            "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/mh9Zp3yN/wthit-1.20.1-fabric-8.21.0.jar",
+            "version": "fabric-8.21.0",
+            "loader": "fabric",
+            "dependencies": [
+                {
+                    "version_id": null,
+                    "project_id": "nfn13YXA",
+                    "file_name": null,
+                    "dependency_type": "optional"
+                },
+                {
+                    "version_id": null,
+                    "project_id": "P7dR8mSH",
+                    "file_name": null,
+                    "dependency_type": "required"
+                },
+                {
+                    "version_id": null,
+                    "project_id": "mOgUt4GM",
+                    "file_name": null,
+                    "dependency_type": "optional"
+                },
+                {
+                    "version_id": null,
+                    "project_id": "fRiHVvU7",
+                    "file_name": null,
+                    "dependency_type": "optional"
+                },
+                {
+                    "version_id": null,
+                    "project_id": "ftdbN0KK",
+                    "file_name": null,
+                    "dependency_type": "required"
+                }
+            ]
+        },
+        {
+            "id": "1OE8wbN0",
+            "slug": "prism-lib",
+            "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/Fmetb8IP/Prism-1.20.1-fabric-1.0.5.jar",
+            "version": "1.0.5",
+            "loader": "fabric",
+            "dependencies": []
+        },
+        {
+            "id": "fM515JnW",
+            "slug": "ambientsounds",
+            "url": "https://cdn.modrinth.com/data/fM515JnW/versions/Y8F6BpQg/AmbientSounds_FABRIC_v6.3.4_mc1.20.1.jar",
+            "version": "6.3.4",
+            "loader": "fabric",
+            "dependencies": [
+                {
+                    "version_id": null,
+                    "project_id": "P7dR8mSH",
+                    "file_name": null,
+                    "dependency_type": "required"
+                },
+                {
+                    "version_id": null,
+                    "project_id": "OsZiaDHq",
+                    "file_name": null,
+                    "dependency_type": "required"
+                }
+            ]
+        },
+        {
+            "id": "P7dR8mSH",
+            "slug": "fabric-api",
+            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/L6LGItxd/fabric-api-0.92.7%2B1.20.1.jar",
+            "version": "0.92.7+1.20.1",
+            "loader": "fabric",
+            "dependencies": []
+        },
+        {
+            "id": "OsZiaDHq",
+            "slug": "creativecore",
+            "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/HoxFnPO8/CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar",
+            "version": "2.12.34",
+            "loader": "fabric",
+            "dependencies": [
+                {
+                    "version_id": null,
+                    "project_id": "P7dR8mSH",
+                    "file_name": null,
+                    "dependency_type": "required"
+                }
+            ]
+        },
+        {
+            "id": "EsAfCjCV",
+            "slug": "appleskin",
+            "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/N5XeV21r/appleskin-fabric-mc1.20.1-2.5.2.jar",
+            "version": "2.5.2+mc1.20.1",
+            "loader": "fabric",
+            "dependencies": [
+                {
+                    "version_id": null,
+                    "project_id": "P7dR8mSH",
+                    "file_name": null,
+                    "dependency_type": "required"
+                }
+            ]
+        },
+        {
+            "id": "P7dR8mSH",
+            "slug": "fabric-api",
+            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/L6LGItxd/fabric-api-0.92.7%2B1.20.1.jar",
+            "version": "0.92.7+1.20.1",
+            "loader": "fabric",
+            "dependencies": []
+        },
+        {
+            "id": "Q2OqKxDG",
+            "slug": "better-advancements",
+            "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/g2QPj5Kb/BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar",
+            "version": "0.4.2.25",
+            "loader": "fabric",
+            "dependencies": []
+        },
+        {
+            "id": "G1s2WpNo",
+            "slug": "better-third-person",
+            "url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/1yJzEpzh/BetterThirdPerson-Fabric-1.20-1.9.0.jar",
+            "version": "1.9.0",
+            "loader": "fabric",
+            "dependencies": []
+        },
+        {
+            "id": "lO3s8hjs",
+            "slug": "bridging-mod",
+            "url": "https://cdn.modrinth.com/data/lO3s8hjs/versions/PcPvYHBC/BridgingMod-2.5.1%2B1.20.1.fabric-release.jar",
+            "version": "2.5.1+1.20.1.fabric",
+            "loader": "fabric",
+            "dependencies": [
+                {
+                    "version_id": null,
+                    "project_id": "P7dR8mSH",
+                    "file_name": null,
+                    "dependency_type": "required"
+                },
+                {
+                    "version_id": null,
+                    "project_id": "mOgUt4GM",
+                    "file_name": null,
+                    "dependency_type": "optional"
+                },
+                {
+                    "version_id": null,
+                    "project_id": "1eAoo2KR",
+                    "file_name": null,
+                    "dependency_type": "required"
+                }
+            ]
+        },
+        {
+            "id": "P7dR8mSH",
+            "slug": "fabric-api",
+            "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/L6LGItxd/fabric-api-0.92.7%2B1.20.1.jar",
+            "version": "0.92.7+1.20.1",
+            "loader": "fabric",
+            "dependencies": []
+        },
+        {
+            "id": "mOgUt4GM",
+            "slug": "modmenu",
+            "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/lEkperf6/modmenu-7.2.2.jar",
+            "version": "7.2.2",
+            "loader": "fabric",
+            "dependencies": []
+        },
+        {
+            "id": "1eAoo2KR",
+            "slug": "yacl",
+            "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/dvS5DjUA/yet_another_config_lib_v3-3.6.6%2B1.20.1-fabric.jar",
+            "version": "3.6.6+1.20.1-fabric",
+            "loader": "fabric",
+            "dependencies": [
+                {
+                    "version_id": null,
+                    "project_id": "P7dR8mSH",
+                    "file_name": null,
+                    "dependency_type": "required"
+                }
+            ]
+        },
+        {
+            "id": "VSNURh3q",
+            "slug": "c2me-fabric",
+            "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/s4WOiNtz/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.16.jar",
+            "version": "0.2.0+alpha.11.16+1.20.1",
+            "loader": "fabric",
+            "dependencies": []
+        }
+    ]
+}

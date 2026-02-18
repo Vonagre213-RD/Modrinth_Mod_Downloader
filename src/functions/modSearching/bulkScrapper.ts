@@ -1,8 +1,12 @@
 import fs from 'node:fs'
 import { getModUrl } from './getModUrl.js'
-import { downloadReport } from '../state/downloadState.js'
+import { downloadReport } from '../../state/downloadState.js'
+import { fetchError } from '../utils/fetchCustomError.js'
+import { downloadInformation } from '../../state/DownloadInformation.js'
 
-async function bulkScrapper(ModNames: string[], version: string, loader: string) {
+async function bulkScrapper(ModNames: string[]) {
+
+   
     const normalizedModNames = ModNames.map(mod => (
         mod.replaceAll(' ', '-')
     ))
@@ -11,18 +15,21 @@ async function bulkScrapper(ModNames: string[], version: string, loader: string)
     for (let mod of normalizedModNames) {
         try {
             console.log(`[======Searching ${mod}======]`)
-            await getModUrl(mod, version, loader)
+            await getModUrl(mod)
         }
         catch (error) {
 
-            
-            console.log(`couldn't get mod url for: ${mod}, used url was ${}`)
-            console.log(error)
+            if (error instanceof fetchError) {
 
-            continue;
+                console.log(`couldn't get mod url for: ${mod}, used url was ${error.url}`)
+            }
+            if (error instanceof Error) {
+                console.log(error.message)
+            }
+
         }
+        continue;
     }
-
     const modsReportJson = JSON.stringify(downloadReport);
 
     fs.writeFile("./Data/report.json", modsReportJson, (err) => {
@@ -31,5 +38,7 @@ async function bulkScrapper(ModNames: string[], version: string, loader: string)
         }
     })
 }
+
+
 
 export { bulkScrapper }
