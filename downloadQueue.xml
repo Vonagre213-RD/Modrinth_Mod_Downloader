@@ -1,13 +1,15 @@
-<downloadQueue loader="fabric" version="1.20.1">
+<downloadQueue loader="fabric" version="1.20.1" outputPath="/mods" >
     <mods>
         ambientsounds,
         appleskin,
         auditory,
         better advancements,
         better f3,
-        better than mendinjdjdnkjfdjdg,
+        better than mending,
         better third person,
         bridging mod,
         c2me-fabric,
+        biomes o plenty,
+        distant horizons
     </mods>
 </downloadQueue>

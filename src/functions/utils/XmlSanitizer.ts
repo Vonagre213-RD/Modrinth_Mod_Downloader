@@ -5,7 +5,8 @@ interface DownloadQueueBaseType {
     downloadQueue: {
         loader: string,
         version: string,
-        mods: string
+        mods: string,
+        outputPath: string
     }
 }
 
@@ -13,8 +14,8 @@ interface DownloadQueueMappedType {
 
     loader: string,
     version: string,
-    mods: string[]
-
+    mods: string[],
+    outputPath: string
 }
 
 function sanitizer(downloadQueueXml: DownloadQueueBaseType): DownloadQueueMappedType {
@@ -26,7 +27,9 @@ function sanitizer(downloadQueueXml: DownloadQueueBaseType): DownloadQueueMapped
             return mod.trim()
         }).filter(mod => mod.length > 0),
         loader: downloadQueueXml.downloadQueue.loader,
-        version: downloadQueueXml.downloadQueue.version
+        version: downloadQueueXml.downloadQueue.version,
+        outputPath: downloadQueueXml.downloadQueue.outputPath
+
     }
 
 

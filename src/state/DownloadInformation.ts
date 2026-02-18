@@ -1,11 +1,13 @@
 
-interface downloadInformationInterface  {
+interface downloadInformationInterface {
     loader: string,
     version: string
+    output: string
 }
 let downloadInformation: downloadInformationInterface = {
-    loader: "fabric",
-    version: "1.20.1"
+    loader: "",
+    version: "",
+    output: ""
 }
 
-export {downloadInformation}
+export { downloadInformation }
