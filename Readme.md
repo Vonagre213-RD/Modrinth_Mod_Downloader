@@ -20,7 +20,7 @@ hi! This is a little project I made with typescript to quickly download mods and
 pnpm install
 ```
 
-![[Pasted image 20260218195546.png]]
+![Installation step](Photos/Pasted%20image%2020260218195546.png)
 
 3- That's all! You have already installed the mod downloader! Now proceed to the usage guide!
 
@@ -72,11 +72,18 @@ pnpm install
 
 Even if the program uses the search version of the api to find similarities, please try to use the exact name of the mod (the one that appears in the urls).
 
-![[Pasted image 20260218202752.png]]
+![Mod name example](Photos/Pasted%20image%2020260218202752.png)
 
 In this case it is `distantHorizons`,
 
 or at least one similar.
 
+# How to execute:
+
+just write `pnpm run start` in your terminal and it will execute the program.
+
+![Execution example](Photos/Pasted%20image%2020260218205031.png)
+
 # That's it!! now you can easily download mods!
+
 

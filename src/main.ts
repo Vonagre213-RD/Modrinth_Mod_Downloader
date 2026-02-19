@@ -24,6 +24,8 @@ interface DownloadQueueMappedType {
 }
 
 async function Main() {
+
+    
     const downloadQueueFile: DownloadQueueBaseType = XmlParser("./downloadQueue.xml")
 
     const downloadQueue: DownloadQueueMappedType = sanitizer(downloadQueueFile)

@@ -1,4 +1,4 @@
-##Si vas a hacer un fork de este proyecto o usarlo en el tuyo, por favor mencioname ❤️
+## Si vas a hacer un fork de este proyecto o usarlo en el tuyo, por favor mencióname ❤️
 
 ## Descargador de mods de Modrinth
 
@@ -20,7 +20,7 @@
 pnpm install
 ```
 
-![[Pasted image 20260218195546.png]]
+![Paso de instalación](Photos/Pasted%20image%2020260218195546.png)
 
 3- ¡Eso es todo! ¡Ya instalaste el descargador de mods! ¡Ahora procede a la guía de uso!
 
@@ -72,10 +72,16 @@ pnpm install
 
 Aunque el programa usa la versión de búsqueda de la api para encontrar similitudes, por favor intenta usar el nombre exacto del mod (el que aparece en las urls).
 
-![[Pasted image 20260218202752.png]]
+![Ejemplo de nombre de mod](Photos/Pasted%20image%2020260218202752.png)
 
 en este caso es `distanHorizons`.
 
-o al menos uno lo mas similar posible para evitar errores.
+o al menos uno lo más similar posible para evitar errores.
 
-# ¡Eso es todo!! ahora puedes descargar mod fácilmente
+# Cómo ejecutar:
+
+solo escribe `pnpm run start` en tu terminal y se ejecutara el programa.
+
+![Ejemplo de ejecución](Photos/Pasted%20image%2020260218205031.png)
+
+# ¡Eso es todo!! ahora puedes descargar mods fácilmente

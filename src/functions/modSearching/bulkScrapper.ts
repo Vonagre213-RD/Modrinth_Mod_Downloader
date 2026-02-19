@@ -33,12 +33,16 @@ async function bulkScrapper(ModNames: string[]) {
         }
         continue;
     }
-    let noDuplicatesDownloadReport: downloadReportInterface = {downloadQueue: [], errors: []};
+    let noDuplicatesDownloadReport: downloadReportInterface = { downloadQueue: [], errors: [] };
 
     noDuplicatesDownloadReport.downloadQueue = removeDuplicates(downloadReport.downloadQueue)
     noDuplicatesDownloadReport.errors = removeDuplicates(downloadReport.errors)
-    
+
     const modsReportJson = JSON.stringify(noDuplicatesDownloadReport);
+
+    if (!fs.existsSync("./Data")) {
+        fs.mkdirSync("./Data")
+    }
 
     fs.writeFile("./Data/report.json", modsReportJson, (err) => {
         if (err) {
