@@ -30,6 +30,8 @@ async function Main() {
 
     downloadInformation.loader =  downloadQueue.loader
     downloadInformation.version =  downloadQueue.version
+    downloadInformation.output =  downloadQueue.outputPath
+
     await bulkScrapper(downloadQueue.mods)
 
     await bulkdownloader(downloadReport)
