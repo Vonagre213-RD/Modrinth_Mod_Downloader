@@ -1,4 +1,4 @@
-##If you're going to make a fork of this project or use it in your own please mention me ❤️
+## If you're going to make a fork of this project or use it in your own please mention me ❤️
 
 ## Modrinth mod downloader
 
